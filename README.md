@@ -12,7 +12,7 @@
 
 This is a simple extension that will scroll you to the bottom of the page
 
-![My example!](/images/sample.png "Scroll to the botom extension")
+![My example!](https://66.media.tumblr.com/b85d4ba0a1af7457023ac128b8c24596/4625e9964e26cd91-69/s250x400/09d216043d6449dc1b9b9dd76f00fe5f8a340518.png "Scroll to the botom extension")
 
 
 * Start by creating a directory in your workspace
